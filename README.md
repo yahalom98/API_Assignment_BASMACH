@@ -10,3 +10,6 @@ Useful resources
 # IPify - real-time IP Geolocation API which has been replaced
 # Leaflet - an open-source JavaScript library for mobile-friendly interactive maps
 # Free Geo IP - provides a free IP gelocation API for software developers I am currently using. This is a temporary replacement
+
+
+Example - https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/ld4kxbjoxpqpjenak8w6.jpg
