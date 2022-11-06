@@ -5,10 +5,8 @@ Users should be able to:
 4. Search for any IP addresses or domains and see the key information and location.
 
 Useful resources
-Figma - Paste your design image to check the size of containers, width, etc.
-Perfect Pixel - Awesome Chrome extension that helps you to match the pixels of the provided design.
-IPify - real-time IP Geolocation API which has been replaced
-Leaflet - an open-source JavaScript library for mobile-friendly interactive maps
-Free Geo IP - provides a free IP gelocation API for software developers I am currently using. This is a temporary replacement
-Acknowledgments
-A big thank you to anyone providing feedback on my solution. It definitely helps to find new ways to code and find easier solutions!
+# Figma - Paste your design image to check the size of containers, width, etc.
+# Perfect Pixel - Awesome Chrome extension that helps you to match the pixels of the provided design.
+# IPify - real-time IP Geolocation API which has been replaced
+# Leaflet - an open-source JavaScript library for mobile-friendly interactive maps
+# Free Geo IP - provides a free IP gelocation API for software developers I am currently using. This is a temporary replacement
